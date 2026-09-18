@@ -1,0 +1,17 @@
+com\entrega\cafeteria2\service\ProdutoService.class
+com\entrega\cafeteria2\dto\CnpjResponseDto.class
+com\entrega\cafeteria2\entity\Fornecedor.class
+com\entrega\cafeteria2\dto\ProdutoResponseDto.class
+com\entrega\cafeteria2\Cafeteria2Application.class
+com\entrega\cafeteria2\entity\Categoria.class
+com\entrega\cafeteria2\controller\GlobalExceptionHandler.class
+com\entrega\cafeteria2\repository\ProdutoRepository.class
+com\entrega\cafeteria2\service\FornecedorService.class
+com\entrega\cafeteria2\client\CnpjClient.class
+com\entrega\cafeteria2\dto\FornecedorRequestDto.class
+com\entrega\cafeteria2\controller\ProdutoController.class
+com\entrega\cafeteria2\entity\Produto.class
+com\entrega\cafeteria2\controller\FornecedorController.class
+com\entrega\cafeteria2\dto\FornecedorResponseDto.class
+com\entrega\cafeteria2\dto\ProdutoRequestDto.class
+com\entrega\cafeteria2\repository\FornecedorRepository.class

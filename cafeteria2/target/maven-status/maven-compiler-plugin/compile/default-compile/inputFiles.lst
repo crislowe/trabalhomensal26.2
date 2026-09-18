@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\Cafeteria2Application.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\client\CnpjClient.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\controller\FornecedorController.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\controller\ProdutoController.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\dto\CnpjResponseDto.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\dto\FornecedorRequestDto.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\dto\FornecedorResponseDto.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\dto\ProdutoRequestDto.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\dto\ProdutoResponseDto.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\entity\Categoria.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\entity\Fornecedor.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\entity\Produto.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\exception\GlobalExceptionHandler.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\repository\FornecedorRepository.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\repository\ProdutoRepository.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\service\FornecedorService.java
+C:\Users\Usuario\Documents\Workspace\cafeteria2\src\main\java\com\entrega\cafeteria2\service\ProdutoService.java
